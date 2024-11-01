@@ -1,0 +1,12 @@
+{
+	"landingPage": "/sample-page",
+	"phpExtensionBundles": [
+		"kitchen-sink"
+	],
+	"steps": [{
+			"step": "login",
+			"username": "admin",
+			"password": "password"
+		}
+	]
+}
